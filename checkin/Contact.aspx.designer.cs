@@ -11,7 +11,7 @@ namespace checkin
 {
 
 
-    public partial class Contact
+    public partial class Contact1
     {
     }
 }
